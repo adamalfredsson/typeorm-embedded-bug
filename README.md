@@ -1,3 +1,5 @@
+Cannot save embedded entities as null
+
 # Awesome Project Build with TypeORM
 
 Steps to run this project:
